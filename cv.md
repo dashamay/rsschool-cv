@@ -9,3 +9,9 @@ Houston, TX | d.khadanovich@gmail.com | [LinkedIn URL](http://linkedin.com/in/da
 * Highly motivated person, always attentive to details and accustomed to working in fast-moving surroundings.
 * Skilled in leading, supervising and advising team members, organizing knowledge transfer meetings and accompanying newcomers during adaptation period. 
 
+### SKILLS
+* **Methodologies:** Agile (Scrum, Kanban)
+* **Project management tools:** Jira, Confluence, MS Project, TFS, Trello, Pivotal, SharePoint, Wiki
+* **Prototyping:** Balsamiq, Pidoco, Axure
+* **Modeling Tools:** Visio, Bizagi Modeler, draw.io
+* **Other:** JavaScript, HTML, CSS, SQL, Power BI, Microsoft Office, Postman, SoapUI
