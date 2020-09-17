@@ -52,3 +52,7 @@ Houston, TX | d.khadanovich@gmail.com | [LinkedIn URL](http://linkedin.com/in/da
     * Running communication inside the team and with customers 
     * Monitoring working hours in Jira and excel timesheets, customer invoicing
     * Monthly and Daily reports, project progress reporting
+
+### EDUCATION
+1. **Master’s Degree in IT Management**, Belarus State Economic University, Minsk, Belarus
+2.	**Bachelor’s Degree in Finance**, Belarus State Economic University, Minsk, Belarus
