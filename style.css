@@ -1,0 +1,68 @@
+.header {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 40px;
+    left: 525px;
+}
+
+.address {
+    margin: 50px 0px;
+}
+
+.experience {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    width: 750px;
+    left: 525px;
+    top: 250px;
+}
+
+.photo {
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    border: 4px solid antiquewhite;
+    border-radius: 127px;
+}
+
+.headerBackground {
+    position: relative;
+    width: auto;
+    height: 150px;
+    background-color: #6E89C3;
+}
+
+.summary {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative; 
+    top: 95px;
+    left: 100px;
+    width: 350px;
+}
+
+.skills {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative; 
+    top: 95px;
+    left: 100px;
+    width: 350px;
+
+}
+
+.education {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 95px;
+    left: 100px;
+    width: 350px;
+}
